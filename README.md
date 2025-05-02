@@ -44,11 +44,14 @@ visuals/            # All graphs and wordclouds
 
 ## 📷 Visual Highlights
 
-### Sentiment by Feature
+### Sentiment by Feature:
 ![Sentiment by Feature](visuals/sentiment_by_feature.png)
 
-### Wordcloud: Negative Reviews
-![Wordcloud Negative](visuals/wordcloud_negative.png)
+### Wordcloud: Positive Reviews
+![Wordcloud Positive](visuals/wordcloud_positive.png)
+
+### Wordcloud: Hearts
+![Wordcloud Hearts](visuals/wordcloud_hearts.png)
 
 ### Gamification Scorecard (Octalysis)
 ![Octalysis Radar](visuals/octalysis_radar.png)
