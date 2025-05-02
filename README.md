@@ -94,7 +94,7 @@ jupyter notebook
 ```bash
 streamlit run 4_app/streamlit_app.py
 ```
-
+https://duolingo-analysis.streamlit.app/
 ---
 
 ## 🚀 Author
