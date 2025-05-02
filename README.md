@@ -94,7 +94,14 @@ jupyter notebook
 ```bash
 streamlit run 4_app/streamlit_app.py
 ```
-https://duolingo-analysis.streamlit.app/
+
+---
+
+## 🚀 Live Demo
+
+Try the interactive dashboard here:  
+👉 [Open Streamlit App](https://duolingo-analysis.streamlit.app/)
+
 ---
 
 ## 🚀 Author
